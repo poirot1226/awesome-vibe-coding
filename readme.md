@@ -143,6 +143,8 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
 
+* [NextReset](https://nextreset.ai/) — Free Claude Code reset companion with source-linked reset history, official incident updates, and a browser-local personal reset timer.
+
 ---
 
 ## Project Documentation
